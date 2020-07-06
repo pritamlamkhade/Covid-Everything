@@ -33,6 +33,6 @@ Files :
 
         symptoms.html - It contains the details about the symptoms that are evident when someone is suffering from COVID-19.
 
-        bot.js - This file is available inside assets folder and it runs in the background of all the pages. This is a bot script that can be used by the user to query basic                      stuffs like symptoms and precautions and it will return the desired result. Since its a free bot will work for a week only.
+        bot.js - This file is available inside assets folder and it runs in the background of all the pages. This is a bot script that can be used by the user to query basic   stuffs like symptoms and precautions and it will return the desired result. Since its a free bot will work for a week only.
 
 Thank You!
