@@ -5,13 +5,13 @@ This project is Made by Team System Zombies for HackJaipur Hackathon :
 
 Team Members:
 
-Manav Bansal : https://www.linkedin.com/in/manavbansal11031998/
-
-Mritunjay Choubey : https://www.linkedin.com/in/mjay4/
-
 Pritam Lamkhade : https://www.linkedin.com/in/pritamlamkhade/ 
 
 Vijaya Mishra : https://www.linkedin.com/in/vijayamishra09/ 
+
+Mritunjay Choubey : https://www.linkedin.com/in/mjay4/
+
+Manav Bansal : https://www.linkedin.com/in/manavbansal11031998/
 
 Overview :
 
